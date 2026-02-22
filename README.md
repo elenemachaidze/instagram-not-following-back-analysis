@@ -25,7 +25,8 @@ are in the same file as both of the python scripts.
 __#usage__ 
 
 to get the script to run just navigate to the file in the terminal and run the command:
-python3 ig_not_following_back.py for json or python3 ig_not_following_back_html.py for html
+
+**python3 ig_not_following_back.py** for json or **python3 ig_not_following_back_html.py** for html
 
 
 
